@@ -19854,7 +19854,7 @@
 	)
 	(gr_text "XIAO HERE!"
 		(at 75.99 43.13 0)
-		(layer "B.Cu")
+		(layer "B.SilkS")
 		(uuid "491b7b02-5841-451b-919e-183920580b19")
 		(effects
 			(font
