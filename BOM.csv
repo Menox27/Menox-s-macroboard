@@ -1,0 +1,12 @@
+Quantity,Part,Cost,Note
+1x,PCB,2€ (included),Mainbody
+1x,XIAO RP2040,5.50€ (included),Microcontroller
+9x,MX-Style Switches,5.85€ (included),Mechanical Switches
+9x,any Keycaps,Filament,3D printed
+9x,Through-Hole-Diodes,1.10€ (included),Signal diodes
+9x,SK6812 MINI-E LEDs,0.27€ (included),RGB Lighting
+1x,EC11 Rotary Encoder,0.65€ (included),Input
+1x,0.91 inch OLED,1.65€ (included),Display
+12x,M3 heatset inserts,0.66€ (included),Case hardware
+4x,M3 Screws,0.08€ (included),Case hardware
+1x,Macroboard-Case,Filament,3D printed
