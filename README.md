@@ -20,18 +20,3 @@ In case you are wondering about the setup: The XIAO is mounted on the back so th
 Case:<br>
 This is the case I came up with. It has a layer to mount the switches and one to hide the OLEDs parts that I dont want to be seen.<br>
 <img width="1101" height="761" alt="{F8A3C546-25B9-4F1C-808D-FF561A60D7B6}" src="https://github.com/user-attachments/assets/32f6942c-506d-4411-a3c2-eea6d4fdce02" />
-
-BOM:<br>
-| Qtt | PART | COST |
-| :--- | :---: | ---: |
-| 1x | XIAO RP2040 | 5,50€ |
-| 9x | MX-StyleSwitches | 5,85€ |
-| 9x | any Keycaps | Fillament |
-| 9x | Through-Hole-Diodes | 1,1€ |
-| 9x | SK6812 MINI-E LEDs | 0,2745€ |
-| 1x | EC11 Rotary Encoder | 0,65€ |
-| 1x | 0.91 inch OLED | 1,65€ |
-| 12x | M3 heatset inserts | 0,66€ |
-| 4x | M3 Screws | 0,0796€ |
-| 1x | Macroboard-Case | Fillament |
-
